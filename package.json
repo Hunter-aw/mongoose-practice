@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hunter-aw/mongoose-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hunter-aw/mongoose-practice/issues"
+  },
+  "homepage": "https://github.com/Hunter-aw/mongoose-practice#readme",
+  "dependencies": {
+    "mongoose": "^5.2.9"
+  }
+}
